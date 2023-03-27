@@ -1,0 +1,7 @@
+## Interface: 100005
+## Title: RichPresence
+## Version: 10.0.7
+## Author: Mast3r_waf1z and ChatGPT
+## SavedVariables: MyAddonDB
+
+RichPresence.lua
